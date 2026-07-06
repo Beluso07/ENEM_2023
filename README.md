@@ -51,8 +51,6 @@ O dashboard interativo traduz a análise em 4 páginas navegáveis, com filtros 
   <img src="docs/images/dashboard_publica_privada.png" width="45%" alt="Dashboard - Pública x Privada"/>
 </p>
 
- [Relatório completo (PDF)](docs/Analise_ENEM_2023_Relatorio.pdf)
-
 ##  Arquitetura do projeto
 
 O projeto segue uma separação clara entre **camada bruta**, **camada tratada** e **camada de consumo (BI)** uma prática que evita que o Power BI precise interpretar relacionamentos ambíguos automaticamente:
@@ -127,6 +125,10 @@ Os resultados mostram **correlação, não causalidade**. Variáveis como rotina
 - [ ] Análise estatística aprofundada em Python
 - [ ] Aprofundamento por região/estado
 - [ ] Comparação ENEM 2023 vs. edições anteriores
+
+##  Relatório Completo
+
+   [Relatório completo (PDF)](docs/Analise_ENEM_2023_Relatorio.pdf)
 
 ## Feito por:
 
