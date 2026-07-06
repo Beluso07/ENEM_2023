@@ -44,13 +44,12 @@ O dashboard interativo traduz a análise em 4 páginas navegáveis, com filtros 
 | **4. Pública x Privada** | Comparação direta entre redes de ensino, incluindo participação no Top 10.000 |
 
 <p align="center">
-  <img src="docs/images/dashboard_visao_geral.png" width="45%" alt="Dashboard - Visão Geral"/>
-  <img src="docs/images/dashboard_socioeconomica.png" width="45%" alt="Dashboard - Socioeconômica"/>
+  <img src="docs/images/01.DashBoard%20ENEM%202023%20-%20Vis%C3%A3o%20Geral.png" width="45%" alt="Dashboard - Visão Geral"/>
+  <img src="docs/images/02.DashBoard%20ENEM%202023%20-%20Socioecon%C3%B4mico.png" width="45%" alt="Dashboard - Socioeconômico"/>
   <br/>
-  <img src="docs/images/dashboard_abstencao.png" width="45%" alt="Dashboard - Abstenção"/>
-  <img src="docs/images/dashboard_publica_privada.png" width="45%" alt="Dashboard - Pública x Privada"/>
+  <img src="docs/images/03.DashBoard%20ENEM%202023%20-%20Absten%C3%A7%C3%A3o.png" width="45%" alt="Dashboard - Abstenção"/>
+  <img src="docs/images/04.DashBoard%20ENEM%202023%20-%20P%C3%BAblica%20x%20Privada.png" width="45%" alt="Dashboard - Pública x Privada"/>
 </p>
-
 ##  Arquitetura do projeto
 
 O projeto segue uma separação clara entre **camada bruta**, **camada tratada** e **camada de consumo (BI)** uma prática que evita que o Power BI precise interpretar relacionamentos ambíguos automaticamente:
