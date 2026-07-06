@@ -51,7 +51,7 @@ O dashboard interativo traduz a análise em 4 páginas navegáveis, com filtros 
   <img src="docs/images/dashboard_publica_privada.png" width="45%" alt="Dashboard - Pública x Privada"/>
 </p>
 
- [Relatório completo (PDF)](docs/Analise_ENEM_2023_Relatorio.pdf) ·  [Arquivo Power BI (.pbix)](dashboard/ENEM_2023.pbix)
+ [Relatório completo (PDF)](docs/Analise_ENEM_2023_Relatorio.pdf)
 
 ##  Arquitetura do projeto
 
