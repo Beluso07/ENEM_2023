@@ -50,7 +50,8 @@ O dashboard interativo traduz a análise em 4 páginas navegáveis, com filtros 
   <img src="docs/images/03.DashBoard%20ENEM%202023%20-%20Absten%C3%A7%C3%A3o.png" width="45%" alt="Dashboard - Abstenção"/>
   <img src="docs/images/04.DashBoard%20ENEM%202023%20-%20P%C3%BAblica%20x%20Privada.png" width="45%" alt="Dashboard - Pública x Privada"/>
 </p>
-##  Arquitetura do projeto
+
+## Arquitetura do projeto
 
 O projeto segue uma separação clara entre **camada bruta**, **camada tratada** e **camada de consumo (BI)** uma prática que evita que o Power BI precise interpretar relacionamentos ambíguos automaticamente:
 
