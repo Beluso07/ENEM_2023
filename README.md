@@ -35,7 +35,7 @@ Todos os números acima têm rastreabilidade completa até a query ou medida DAX
 
 ##  Dashboard Power BI
 
-<video src="https://github.com/user-attachments/assets/(https://github.com/user-attachments/assets/bc6bd1cf-8d8f-435c-9d43-8b7c88a72025)" controls width="700"></video>
+<video src="https://github.com/user-attachments/assets/bc6bd1cf-8d8f-435c-9d43-8b7c88a72025" controls width="700"></video></video>
 
 O dashboard interativo traduz a análise em 4 páginas navegáveis, com filtros dinâmicos por UF, renda, raça/cor, tipo de escola, acesso à internet e situação de presença:
 
