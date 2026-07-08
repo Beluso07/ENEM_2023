@@ -110,8 +110,6 @@ Todas as etapas usam `NULLIF` para proteção padronizada contra nulos e contage
 │   ├── 03_Campos_Complementares.sql
 │   ├── 04_Tabela_Complementar.sql
 │   └── 05_Analise.sql
-├── dashboard/
-│   └── ENEM_2023.pbix
 ├── docs/
 │   ├── Analise_ENEM_2023_Relatorio.pdf
 │   └── images/
